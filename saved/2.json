@@ -1,0 +1,1 @@
+{"equations": ["y**2/b**2+x**2/a**2=c"], "variables": [], "sliders": [{"name": "a", "value": " 2.17", "min": "0", "max": " 100"}, {"name": "b", "value": " 3.91", "min": "0", "max": " 100"}, {"name": "c", "value": " 3.48", "min": "-100", "max": " 100"}]}
